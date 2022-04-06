@@ -1,0 +1,19 @@
+.title-style{
+  background-color: blue;
+  color: aliceblue;
+
+  text-align: center;
+}
+
+article{
+  color: blue;
+}
+
+.article-title{
+  text-align: center;
+}
+
+p{
+  text-indent: 10px;
+}
+
